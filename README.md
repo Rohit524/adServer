@@ -13,3 +13,13 @@ Application consists Of
 4. Getting and Storing multiple ads for partner id(Bonus)
 5. JUnits
 6. Error Handling
+
+Advantages & Disadvantages of Persistance mechanism(Bonus)
+Advantages:
+All the ads are stored as key value pairs, where the key is the partner id and value is list of ads
+Easy to retrive, add new ads and add ads to existing partner id
+Disadvantages:
+Not thread safe
+Once the application is restared all the data is deleted
+
+
