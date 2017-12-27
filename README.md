@@ -1,1 +1,15 @@
 # adServer
+Deployment Instruction
+1. Unzip the project
+2. Deploy the war in the server
+3. Go to the url for creating new ads: <Host>/adServer/homePage
+4. To get all the ads:  <Host>/adServer/ad/getAllAds
+5. To get a ad based on partner id : <Host>/adServer/ad/{partnener_id}
+
+Application consists Of
+1. Creating new ads
+2. Getting ads based on partner id
+3. Getting all the ads(Bonus Question)
+4. Getting and Storing multiple ads for partner id(Bonus)
+5. JUnits
+6. Error Handling
