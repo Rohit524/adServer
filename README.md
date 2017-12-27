@@ -1,7 +1,7 @@
 # adServer
 Deployment Instruction
 1. Unzip the project
-2. Deploy the war in the server
+2. Deploy the application in the server
 3. Go to the url for creating new ads: <Host>/adServer/homePage
 4. To get all the ads:  <Host>/adServer/ad/getAllAds
 5. To get a ad based on partner id : <Host>/adServer/ad/{partner_id}
